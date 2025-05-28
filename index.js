@@ -13,3 +13,5 @@ console.log("Brb br br batapim")
 const databaas = document.getElementById("dabaass")
 
 var databass = document.getElementById("var")
+
+let id = document.getElementById("ID")
