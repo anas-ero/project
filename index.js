@@ -5,6 +5,7 @@ console.log("GREW")
 // js a test qwith aa comment
 // added a style
 dababa.style.background = "Blue"
+dababa.style.color = "red";
 
 
 const brr = document.getElementById("brr brbr")
