@@ -5,7 +5,7 @@ console.log("GREW")
 
 
 
-const brr = document.getElementById("brr")
+const brr = document.getElementById("brr brbr")
 
 
 console.log("Brb br br batapim")
