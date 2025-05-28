@@ -3,6 +3,8 @@ console.log("gr")
 console.log("GREW")
 
 // js a test qwith aa comment
+// added a style
+dababa.style.background = "Blue"
 
 
 const brr = document.getElementById("brr brbr")
